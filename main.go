@@ -24,8 +24,8 @@ import (
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 	"gopkg.in/alecthomas/kingpin.v2"
-	"github.com/metalmatze/alertmanager-bot/pkg/alertmanager"
-	"github.com/metalmatze/alertmanager-bot/pkg/telegram"
+	"github.com/setyadhiputrad/prom-bot/pkg/alertmanager"
+	"github.com/setyadhiputrad/prom-bot/pkg/telegram"
 )
 
 const (
